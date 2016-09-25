@@ -1,2 +1,2 @@
 # CopyToMask
-RoboFont script copying forground layer to 'mask' layer
+RoboFont script copying foreground layer to 'mask' layer
